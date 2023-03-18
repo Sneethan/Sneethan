@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Sneethan and I devlop websites and Discord Bots.
+My name is Sneethan and I develop websites and Discord Bots.
 
 **Currently Learning:**
 -WordPress
